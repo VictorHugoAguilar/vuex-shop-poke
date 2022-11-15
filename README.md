@@ -56,5 +56,10 @@ json-server --watch file-name.json
  http://localhost:3000/items
 ```
 
+# example app
+
+<img href="https://github.com/VictorHugoAguilar/vuex-shop-poke/blob/main/demo/initial_page.png?raw=true" />
+<img href="https://github.com/VictorHugoAguilar/vuex-shop-poke/blob/main/demo/show_cart.png?raw=true" />
+
 
 
