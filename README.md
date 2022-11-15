@@ -58,8 +58,8 @@ json-server --watch file-name.json
 
 # example app
 
-<img href="https://github.com/VictorHugoAguilar/vuex-shop-poke/blob/main/demo/initial_page.png?raw=true" />
-<img href="https://github.com/VictorHugoAguilar/vuex-shop-poke/blob/main/demo/show_cart.png?raw=true" />
+<img src="https://github.com/VictorHugoAguilar/vuex-shop-poke/blob/main/demo/initial_page.png?raw=true" />
+<img src="https://github.com/VictorHugoAguilar/vuex-shop-poke/blob/main/demo/show_cart.png?raw=true" />
 
 
 
