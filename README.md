@@ -58,7 +58,7 @@ json-server --watch file-name.json
 
 ## example app
 
-<div style="width:100%; display: flex; justify-content: center; text-align:center;">
+<div style="width:100%; display: flex; justify-content: space-between;">
   <img style="width: 45%" src="https://github.com/VictorHugoAguilar/vuex-shop-poke/blob/main/demo/initial_page.png?raw=true" />
   <img style="width: 45%" src="https://github.com/VictorHugoAguilar/vuex-shop-poke/blob/main/demo/show_cart.png?raw=true" />
 </div>
